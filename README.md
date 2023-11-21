@@ -1,4 +1,4 @@
-# 공모전
+# 공모전 🚀
 
 ### 1. 2019 행정안전부 빅데이터 분석 공모전 (2019.08.02 ~ 2019.09.05)
   - 주제 : 'i-space' 입지선정_다양한 연령대가 이용가능한 무더위 쉼터
@@ -43,7 +43,7 @@
   - :trophy: 본선 진출 (3위)
   - [분석자료]()
   
-# 데이터 경진대회 (DACON)
+# 데이터 경진대회 (DACON) 🌈
 ### 1. AI프렌즈 시즌 공공 데이터 활용 온도 추정 AI 경진대회 (2020.03.01 ~ 2020.04.13)
   - 주제 : 기상청 공공데이터를 활용한 온도추정 AI 모델 개발
   - 주최기관 :
@@ -54,7 +54,7 @@
 ### 2. 제주 특산물 가격 예측 AI 경진대회 (2023.10.26 ~ 2023.11.20)
   - 주제 : 기상청 공공데이터를 활용한 온도추정 AI 모델 개발
   - 주최기관 : 제주특별자치도, 제주테크노파크
-  - Summary : 회귀(Xgboost, Lightgbm, RandomForest, Catboost)모델 기반 스태킹 + AutoGluon을 이용한 ML/딥러닝 시계열 모델
+  - Summary : EDA, Feature Engineering, 회귀(Xgboost, Lightgbm, RandomForest, Catboost) 스태킹 모델 + AutoGluon을 이용한 ML/딥러닝 시계열 모델 구축
   - :trophy: Public 47위 / Private 31위
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/tree/main/%EC%A0%9C%EC%A3%BC%20%ED%8A%B9%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(2023.10.26%20%7E%202023.11.20)) 
 

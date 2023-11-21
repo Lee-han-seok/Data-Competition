@@ -56,6 +56,6 @@
   - 주최기관 : 제주특별자치도, 제주테크노파크
   - Summary : 회귀(Xgboost, Lightgbm, RandomForest, Catboost)모델 기반 스태킹 + AutoGluon을 이용한 ML/딥러닝 시계열 모델
   - :trophy: Public 47위 / Private 31위
-  - [분석자료]() 
+  - [분석자료](https://github.com/Lee-han-seok/Data-Competition/tree/main/%EC%A0%9C%EC%A3%BC%20%ED%8A%B9%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(2023.10.26%20%7E%202023.11.20)) 
 
     

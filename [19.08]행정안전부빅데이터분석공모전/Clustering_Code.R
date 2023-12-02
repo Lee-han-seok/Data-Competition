@@ -16,7 +16,7 @@ library("dplyr")
 
 
 
-setwd("C:/Users/onest/OneDrive/¹ÙÅÁ È­¸é/¹«´õÀ§½°ÅÍ_QGIS")
+setwd("C:/Users/onest/OneDrive/ë°”íƒ• í™”ë©´/ë¬´ë”ìœ„ì‰¼í„°_QGIS")
 data = read.csv('total_R.csv')
 
 str(data)
@@ -24,18 +24,18 @@ str(data)
 gu_name = data[,1]
 dong_name = data[,2]
 
-data_c = data[,c(3,4,5,16,13,17)] # Å¬·¯½ºÅÍ¸µ¿¡ »ç¿ëÇÒ ¿­¸¸ ÃßÃâ
+data_c = data[,c(3,4,5,16,13,17)] # í´ëŸ¬ìŠ¤í„°ë§ì— ì‚¬ìš©í•  ì—´ë§Œ ì¶”ì¶œ
  
-data_c = data.frame(scale(data_c)) # ½ºÄÉÀÏ¸µ
+data_c = data.frame(scale(data_c)) # ìŠ¤ì¼€ì¼ë§
 summary(data_c)
 
-pairs(data_c) # »êÁ¡µµ Çà·Ä  ... 1.»ýÈ°ÀÎ±¸, 2. ÃÑ ÀÎÇÁ¶ó ¼ö¿¡¼­ ÀÌ»óÄ¡ Á¸Àç
+pairs(data_c) # ì‚°ì ë„ í–‰ë ¬  ... 1.ìƒí™œì¸êµ¬, 2. ì´ ì¸í”„ë¼ ìˆ˜ì—ì„œ ì´ìƒì¹˜ ì¡´ìž¬
 
-data_c[data_c$»ýÈ°ÀÎ±¸ == max(data_c$»ýÈ°ÀÎ±¸),]
-dong_name[365] # ¿ª»ï1µ¿
+data_c[data_c$ìƒí™œì¸êµ¬ == max(data_c$ìƒí™œì¸êµ¬),]
+dong_name[365] # ì—­ì‚¼1ë™
 
-data_c[data_c$ÃÑ.ÀÎÇÁ¶ó¼ö == max(data_c$ÃÑ.ÀÎÇÁ¶ó¼ö),]
-dong_name[8] # Á¾·Î1,2,3,4µ¿ 
+data_c[data_c$ì´.ì¸í”„ë¼ìˆ˜ == max(data_c$ì´.ì¸í”„ë¼ìˆ˜),]
+dong_name[8] # ì¢…ë¡œ1,2,3,4ë™ 
 
 
 
@@ -57,11 +57,11 @@ cluster=cutree(hc3,3)
 table(cluster)
 cluster
 
-# Å¬·¯½ºÅÍ µ¥ÀÌÅÍ¿¡ »ðÀÔ
+# í´ëŸ¬ìŠ¤í„° ë°ì´í„°ì— ì‚½ìž…
 data$cluster= cluster
 View(data)
 write.csv(data, file = 'Cluster_data.csv')
-  ## ±ºÁýÀÌ 3°³ »êÁ¡µµ ±×·¡ÇÁ 
+  ## êµ°ì§‘ì´ 3ê°œ ì‚°ì ë„ ê·¸ëž˜í”„ 
 
 data_c$cluster=cluster
 head(data_c)
@@ -72,8 +72,8 @@ data_c_plot = cbind(data_c,dong_name)
 
 #
 par(mfcol=c(1,1))
-plot(data_c_plot$ÀÎ±¸¹Ðµµ, data_c_plot$»ýÈ°ÀÎ±¸, type="n", xlab="ÀÎ±¸¹Ðµµ", ylab="»ýÈ°ÀÎ±¸(À¯µ¿ÀÎ±¸)")
-text(data_c_plot$ÀÎ±¸¹Ðµµ, data_c_plot$»ýÈ°ÀÎ±¸, data_c_plot$dong_name, col=data_c_plot$cluster, cex=0.8)
+plot(data_c_plot$ì¸êµ¬ë°€ë„, data_c_plot$ìƒí™œì¸êµ¬, type="n", xlab="ì¸êµ¬ë°€ë„", ylab="ìƒí™œì¸êµ¬(ìœ ë™ì¸êµ¬)")
+text(data_c_plot$ì¸êµ¬ë°€ë„, data_c_plot$ìƒí™œì¸êµ¬, data_c_plot$dong_name, col=data_c_plot$cluster, cex=0.8)
 
 #
 par(mfcol=c(1,1))
@@ -84,7 +84,7 @@ barplot(apply(data_c[data_c$cluster==3, 1:6],2,mean), main=paste("Cluster",3), y
 data_c$cluster %>% table()
 
 
-# 1¹ø ±ºÁý (122°³)
+# 1ë²ˆ êµ°ì§‘ (122ê°œ)
 summary(data_c[data_c$cluster == 1 , ])
 boxplot(data_c[data_c$cluster == 1 , -7],main='Cluster1')
 
@@ -92,7 +92,7 @@ dong_name[as.numeric(rownames(data_c[data_c$cluster == 1 , ]))]
 table(gu_name[as.numeric(rownames(data_c[data_c$cluster == 1 , ]))]) %>% sort(decreasing = TRUE)
 
 
-# 2¹ø ±ºÁý (218°³)
+# 2ë²ˆ êµ°ì§‘ (218ê°œ)
 summary(data_c[data_c$cluster == 2 , ])
 boxplot(data_c[data_c$cluster == 2 ,-7],main='Cluster2')
 
@@ -100,7 +100,7 @@ dong_name[as.numeric(rownames(data_c[data_c$cluster == 2 , ]))]
 table(gu_name[as.numeric(rownames(data_c[data_c$cluster == 2 , ]))]) %>% sort(decreasing = TRUE)
 
 
-# 3¹ø ±ºÁý (84°³)
+# 3ë²ˆ êµ°ì§‘ (84ê°œ)
 summary(data_c[data_c$cluster == 3 , ])
 boxplot(data_c[data_c$cluster == 3 , -7],main='Cluster3')
 

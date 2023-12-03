@@ -1,34 +1,34 @@
 # 공모전 🚀
 
-### [🔗]() 1. 2019 행정안전부 빅데이터 분석 공모전 (2019.08.02 ~ 2019.09.05)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 1. 2019 행정안전부 빅데이터 분석 공모전 (2019.08.02 ~ 2019.09.05)
   - 주제 : 'i-space' 입지선정_다양한 연령대가 이용가능한 무더위 쉼터
   - 주최기관 : 한국정보화진흥원
   - Summary : 
   - :trophy: 우수상 (3위)
   - [분석자료]()
 
-### [🔗]() 2. 창원시 공공데이터 분석 공모전 (2019.08. ~ 2019.09.)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B19.08%5D%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 2. 창원시 공공데이터 분석 공모전 (2019.08. ~ 2019.09.)
   - 주제 :
   - 주최기관 : 창원시
   - Summary : 
   - :trophy: -
   - [분석자료]()
 
-### [🔗]() 3. 기상청 날씨 빅데이터 콘테스
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 3. 기상청 날씨 빅데이터 콘테스
   - 주제 : 딥러닝과 기상 데이터 활용을 통한 현대 제철 철강 제품 결로 발생 예측 
   - 주최기관 : 기상청, 현대제
   - Summary : 제공 데이터와 기상 등 공공데이터를 결합한 데이터에 Conditional 1D CNN, LSTM 등 딥러닝 기반 모델 적용을 통한 시계열 예측 
   - :trophy: -
   - [분석자료]()
 
-### [🔗]() 4. 전주시 공공데이터 공모전 (2023.05.15 ~ 2023.06.16)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.05%5D%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 4. 전주시 공공데이터 공모전 (2023.05.15 ~ 2023.06.16)
   - 주제 : GIS 데이터 분석 기반 전주시 심야약국 입지선정
   - 주최기관 : 창원시
   - Summary : 
   - :trophy: 본선 진출
   - [분석자료]()
 
-### [🔗]() 5. 국방부 공공데이터 공모전 (2023.06.19 ~ 2023.07.09)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.06%5D%20%EA%B5%AD%EB%B0%A9%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 5. 국방부 공공데이터 공모전 (2023.06.19 ~ 2023.07.09)
   - 주제 : 이미지 학습 기반 신규 국방 보안 어플리케이션 제안
   - 주최기관 : 국방부
   - Summary : 
@@ -43,7 +43,7 @@
   - [분석자료]()
   
 # 데이터 경진대회 (DACON) 🌈
-### [🔗]() 1. AI프렌즈 시즌 공공 데이터 활용 온도 추정 AI 경진대회 (2020.03.01 ~ 2020.04.13)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.03%5D%20AI%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%8B%9C%EC%A6%8C%20%EA%B3%B5%EA%B3%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%98%A8%EB%8F%84%20%EC%B6%94%EC%A0%95%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 1. AI프렌즈 시즌 공공 데이터 활용 온도 추정 AI 경진대회 (2020.03.01 ~ 2020.04.13)
   - [대회 링크 📍](https://dacon.io/competitions/official/235584/overview/description)
   - 주제 : 기상청 공공데이터를 활용한 온도추정 AI 모델 개발
   - 주최기관 :

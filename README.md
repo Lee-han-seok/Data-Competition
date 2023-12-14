@@ -14,7 +14,7 @@
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B19.08%5D%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EB%B6%84%EC%84%9D%EB%B3%B4%EA%B3%A0%EC%84%9C_2019%EC%B0%BD%EC%9B%90.pdf)
 
-### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 3. 기상청 날씨 빅데이터 콘테스
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 3. 기상청 날씨 빅데이터 콘테스트
   - 주제 : 딥러닝과 기상 데이터 활용을 통한 현대 제철 철강 제품 결로 발생 예측 
   - 주최기관 : 기상청, 현대제
   - Summary : 제공 데이터와 기상 등 공공데이터를 결합한 데이터에 Conditional 1D CNN, LSTM 등 딥러닝 기반 모델 적용을 통한 시계열 예측 

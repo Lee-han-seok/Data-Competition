@@ -4,7 +4,7 @@
   - 주제 : 'i-space' 입지선정_다양한 연령대가 이용가능한 무더위 쉼터
   - 주최기관 : 한국정보화진흥원
   - Summary : 
-  - :trophy: 우수상 (3위)
+  - :trophy: 우수상
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84/i-Space%20%EC%9E%85%EC%A7%80%EC%84%A0%EC%A0%95_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EB%A0%B9%EB%8C%80%EA%B0%80%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AC%B4%EB%8D%94%EC%9C%84%20%EC%89%BC%ED%84%B0(SMG).pdf)
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B19.08%5D%20%EC%B0%BD%EC%9B%90%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 2. 창원시 공공데이터 분석 공모전 (2019.08. ~ 2019.09.)
@@ -39,7 +39,7 @@
   - 주제 : 상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용방안 제시
   - 주최기관 : 과학기술정보통신부, 한국지능정보사회진흥원, DESILO
   - Summary : 공공데이터 기반 부동산 필지 단위 요식업 매출 등급 예측
-  - :trophy: 본선 진출 (3위)
+  - :trophy: 최우수상
   - [분석자료]()
   
 # 데이터 경진대회 (DACON) 🌈

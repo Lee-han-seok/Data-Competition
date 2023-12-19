@@ -35,12 +35,12 @@
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.06%5D%20%EA%B5%AD%EB%B0%A9%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%20%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B8%B0%ED%9A%8D_DCAA.pdf)
 
-### [🔗]() 6. 23년 빅콘테스트 빅데이터플랫폼 활용 분야 지정주제리그 - 부동산 (2023.09.01 ~ 2023.11.28)
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)) 6. 23년 빅콘테스트 빅데이터플랫폼 활용 분야 지정주제리그 - 부동산 (2023.09.01 ~ 2023.11.28)
   - 주제 : 상업용 부동산 가치 창출을 위한 소상공인 매출등급 예측모형 제작 및 활용방안 제시
   - 주최기관 : 과학기술정보통신부, 한국지능정보사회진흥원, DESILO
   - Summary : 공공데이터 기반 부동산 필지 단위 요식업 매출 등급 예측
   - :trophy: **최우수상** 🥈
-  - [분석자료]()
+  - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%E2%98%85%5B23.12%5D%20%EB%B9%85%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%94%8C%EB%9E%AB%ED%8F%BC%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC%20%EC%A7%80%EC%A0%95%EC%A3%BC%EC%A0%9C%EB%A6%AC%EA%B7%B8(%EB%B6%80%EB%8F%99%EC%82%B0)/%EC%9A%B0%EB%A6%AC4Lee_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pdf)
   
 # 데이터 경진대회 (DACON) 🌈
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.03%5D%20AI%ED%94%84%EB%A0%8C%EC%A6%88%20%EC%8B%9C%EC%A6%8C%20%EA%B3%B5%EA%B3%B5%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EC%98%A8%EB%8F%84%20%EC%B6%94%EC%A0%95%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 1. AI프렌즈 시즌 공공 데이터 활용 온도 추정 AI 경진대회 (2020.03.01 ~ 2020.04.13)

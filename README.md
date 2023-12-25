@@ -16,14 +16,14 @@
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8) 3. 기상청 날씨 빅데이터 콘테스트
   - 주제 : 딥러닝과 기상 데이터 활용을 통한 현대 제철 철강 제품 결로 발생 예측 
-  - 주최기관 : 기상청, 현대제
+  - 주최기관 : 기상청, 현대제철 
   - Summary : 제공 데이터와 기상 등 공공데이터를 결합한 데이터에 Conditional 1D CNN, LSTM 등 딥러닝 기반 모델 적용을 통한 시계열 예측 
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B20.06%5D%20%EA%B8%B0%EC%83%81%EC%B2%AD%20%EB%82%A0%EC%94%A8%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8/Conditional%201D%20CNN%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%9C%20%EA%B2%B0%EB%A1%9C%20%EC%98%88%EC%B8%A1%20%EB%AA%A8%ED%98%95.pdf)
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.05%5D%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 4. 전주시 공공데이터 공모전 (2023.05.15 ~ 2023.06.16)
   - 주제 : GIS 데이터 분석 기반 전주시 심야약국 입지선정
-  - 주최기관 : 전주
+  - 주최기관 : 전주시
   - Summary : 
   - :trophy: 본선 진출
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.05%5D%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%A0%84%EC%A3%BC%EC%8B%9C%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)

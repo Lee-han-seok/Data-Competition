@@ -15,7 +15,6 @@
   - Feature Engineering (EDA 기반 피쳐 생성)
   - Modeling (Pycaret : XGBoost, LightGBM, RandomForest, CatBoost | AutoGluon : Naive, SeasonalNaive, Theta, AutoETS, RecursiveTabular, DeepAR) 
   - Data Post-processing (EDA 결과에 따라 휴일 0으로 처리, 음수값 처리)
-  - [참고자료]()
 
 ### 🎯 3. Main Point
   - EDA를 바탕으로한 피쳐엔지니어링, 전처리, 예측값 후처리

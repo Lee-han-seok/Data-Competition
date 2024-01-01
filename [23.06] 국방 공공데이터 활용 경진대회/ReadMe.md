@@ -2,33 +2,18 @@
 
 ### 📄 1. 대회 개요
   - [블로그 게시물 링크(상세 정리) 🔗]()
-  - [대회 링크 🔗]() 
-  - 주최/주관 : 
-  - 배경 : 
-  - 주제 : 
-  - 기간 : 
-  - :trophy: 
+  - [대회 링크 🔗](https://data.mnd.go.kr/user/boardList.action?command=view&page=1&boardId=O_60283&boardSeq=O_334860&mcategoryId=&id=data_060100000000) 
+  - 주최/주관 : 국방부
+  - 배경 : 국방 공공데이터를 활용한 창의적 아이디어 및 비즈니스 모델발굴
+  - 주제 : 객체인식(Object Detection) 기술을 활용한 국방 모바일 어플리케이션 업데이트 제안
+  - 기간 : 2023.06.01 ~ 2023.07.24
+  - :trophy: : -
 
 ### 📊  2. FLOW 
-  - Data Pre-processing
-  - [EDA]
-  - Feature Engineering (EDA 기반 피쳐 생성)
-  - Modeling 
-  - Data Post-processing
+  - 아이디어 도출
+  - 설문조사를 통한 수요 확인
+  - 이미지 데이터 수집, 객체 인식 기술 테스트 (Faster RCNN)
   - [참고자료]()
 
 ### 🎯 3. Main Point
--
--
--
-
-### ❗ 4. 느낀점
--
--
--
-
-
-### ✏️ 5. Study
--
--
-
+- 아이디어 제안 공모전으로 정밀한 구현보다는 아이디어 도출과 근거 수집, 활용 가능성 제안에 집중

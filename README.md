@@ -67,4 +67,10 @@
   - :trophy: Public 241/942위 , Private 271/942위 (상위 29%)
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.12%5D%20%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/5.%ED%94%BC%EC%B3%90%EC%B6%94%EA%B0%80_%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb) 
 
-    
+### [🔗]() 4. 서울시평균기온예측 (2023.12.11 ~ 2023.12.31) 
+  - [대회 링크 📍](https://dacon.io/edu/117) 
+  - 주제 : 
+  - 주최기관 : DACON
+  - Summary : 
+  - :trophy: 
+  - [분석자료]() 

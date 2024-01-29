@@ -57,7 +57,7 @@
   - 주최기관 : 제주특별자치도, 제주테크노파크, DACON
   - Summary : EDA 기반 Feature Engineering, Pycaret과 Autogluon 등을 활용한 ML 모델링
   - :trophy: Public 47/1104위 , Private 31/1104위 (상위 2.8%)
-  - [분석자료](https://github.com/Lee-han-seok/Data-Competition/tree/main/%EC%A0%9C%EC%A3%BC%20%ED%8A%B9%EC%82%B0%EB%AC%BC%20%EA%B0%80%EA%B2%A9%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C%20(2023.10.26%20%7E%202023.11.20)) 
+  - [상세 정리](https://blog.naver.com/2hannseok/223279994399) 
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.12%5D%20%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 3. 대구 교통사고 피해 예측 AI 경진대회 (2023.11.15 ~ 2023.12.11) 
   - [대회 링크 📍](https://dacon.io/competitions/official/236193/overview/description) 
@@ -65,12 +65,12 @@
   - 주최기관 : 산업통상자원부, 대구광역시, DACON
   - Summary : 외부데이터 결합, ML/DL을 활용한 모델링
   - :trophy: Public 241/942위 , Private 271/942위 (상위 29%)
-  - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.12%5D%20%EB%8C%80%EA%B5%AC%20%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%20%ED%94%BC%ED%95%B4%20%EC%98%88%EC%B8%A1%20AI%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/5.%ED%94%BC%EC%B3%90%EC%B6%94%EA%B0%80_%EB%94%A5%EB%9F%AC%EB%8B%9D.ipynb) 
+  - [상세 정리](https://blog.naver.com/2hannseok/223297788580) 
 
-### [🔗]() 4. 서울시평균기온예측 (2023.12.11 ~ 2023.12.31) 
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.01%5D%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%20%ED%8F%89%EA%B7%A0%EA%B8%B0%EC%98%A8%20%EC%98%88%EC%B8%A1) 4. 서울시평균기온예측 (2023.12.11 ~ 2023.12.31) 
   - [대회 링크 📍](https://dacon.io/edu/117) 
-  - 주제 : 
+  - 주제 : 과거 기상 데이터 활용 미래 서울시 일평균 기온 예측(시계열)
   - 주최기관 : DACON
-  - Summary : 
-  - :trophy: 
-  - [분석자료]() 
+  - Summary : NeuralProphet을 활용한 시계열 예측
+  - :trophy: -
+  - [상세 정리](https://blog.naver.com/2hannseok/223332833904) 

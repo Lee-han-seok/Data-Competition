@@ -72,5 +72,5 @@
   - 주제 : 과거 기상 데이터 활용 미래 서울시 일평균 기온 예측(시계열)
   - 주최기관 : DACON
   - Summary : NeuralProphet을 활용한 시계열 예측
-  - :trophy: -
+  - :trophy: Private 28/763위 (상위4%)
   - [상세 정리](https://blog.naver.com/2hannseok/223332833904) 

@@ -77,7 +77,7 @@
   - :trophy: Private 28/763위 (상위4%)
   - [상세 정리](https://blog.naver.com/2hannseok/223332833904) 
 
-### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.01%5D%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%20%ED%8F%89%EA%B7%A0%EA%B8%B0%EC%98%A8%20%EC%98%88%EC%B8%A1) 5. 고객 대출등급 예측 (2024.01.15 ~ 2024.01.31) 
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.01%5D%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%20%ED%8F%89%EA%B7%A0%EA%B8%B0%EC%98%A8%20%EC%98%88%EC%B8%A1) 5. 고객 대출등급 예측 (2024.01.15 ~ 2024.02.14) 
   - [대회 링크 📍](https://dacon.io/edu/46) 
   - 주제 : 고객 대출등급 분류 [다중분류]
   - 주최기관 : DACON

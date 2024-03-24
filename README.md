@@ -69,7 +69,7 @@
   - :trophy: Public 241/942위 , Private 271/942위 (상위 29%)
   - [상세 정리](https://blog.naver.com/2hannseok/223297788580) 
 
-### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.01%5D%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%20%ED%8F%89%EA%B7%A0%EA%B8%B0%EC%98%A8%20%EC%98%88%EC%B8%A1) 4. 서울시평균기온예측 (2023.12.11 ~ 2023.12.31) 
+### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B24.01%5D%20%EC%84%9C%EC%9A%B8%EC%8B%9C%20%ED%8F%89%EA%B7%A0%EA%B8%B0%EC%98%A8%20%EC%98%88%EC%B8%A1) 4. 서울시평균기온예측 (2023.12.11 ~ 2023.12.31) 
   - [대회 링크 📍](https://dacon.io/edu/117) 
   - 주제 : 과거 기상 데이터 활용 미래 서울시 일평균 기온 예측(시계열)
   - 주최기관 : DACON

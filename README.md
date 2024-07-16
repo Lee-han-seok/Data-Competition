@@ -5,7 +5,7 @@
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%E2%98%85%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 1. 행정안전부 빅데이터 분석 공모전 (2019.08.02 ~ 2019.09.05)
   - 주제 : 'i-space' 입지선정_다양한 연령대가 이용가능한 무더위 쉼터
   - 주최기관 : 한국정보화진흥원
-  - Summary : 
+  - Summary : 무더위 쉼터 입지선정을 위한 군집분석, EDA, GIS 분석 등
   - :trophy: **우수상** 🥉
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/tree/main/%E2%98%85%5B19.08%5D%20%ED%96%89%EC%A0%95%EC%95%88%EC%A0%84%EB%B6%80%20%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D%20%EA%B3%B5%EB%AA%A8%EC%A0%84/i-Space%20%EC%9E%85%EC%A7%80%EC%84%A0%EC%A0%95_%EB%8B%A4%EC%96%91%ED%95%9C%20%EC%97%B0%EB%A0%B9%EB%8C%80%EA%B0%80%20%EC%9D%B4%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C%20%EB%AC%B4%EB%8D%94%EC%9C%84%20%EC%89%BC%ED%84%B0(SMG).pdf)
 
@@ -26,14 +26,14 @@
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.05%5D%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84) 4. 전주시 공공데이터 공모전 (2023.05.15 ~ 2023.06.16)
   - 주제 : GIS 데이터 분석 기반 전주시 심야약국 입지선정
   - 주최기관 : 전주시
-  - Summary : 
+  - Summary : 심야약국 대상 약국 선정을 위한 군집분석, EDA, GIS 분석 등
   - :trophy: 본선 진출
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.05%5D%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B3%B5%EB%AA%A8%EC%A0%84/%EC%A0%84%EC%A3%BC%EC%8B%9C%EA%B3%B5%EB%AA%A8%EC%A0%84%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C%20%EC%B5%9C%EC%A2%85%EB%B3%B8.pdf)
 
 ### [🔗](https://github.com/Lee-han-seok/Data-Competition/tree/main/%5B23.06%5D%20%EA%B5%AD%EB%B0%A9%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C) 5. 국방부 공공데이터 공모전 (2023.06.19 ~ 2023.07.09)
   - 주제 : 이미지 학습 기반 신규 국방 보안 어플리케이션 제안
   - 주최기관 : 국방부
-  - Summary : 
+  - Summary : -
   - :trophy: -
   - [분석자료](https://github.com/Lee-han-seok/Data-Competition/blob/main/%5B23.06%5D%20%EA%B5%AD%EB%B0%A9%20%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%99%9C%EC%9A%A9%20%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/%20%EC%82%AC%EC%97%85%EA%B3%84%ED%9A%8D%EC%84%9C_%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EA%B8%B0%ED%9A%8D_DCAA.pdf)
 
